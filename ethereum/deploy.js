@@ -5,8 +5,8 @@ require("dotenv").config();
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-  "bike rabbit shadow battle suit float rather ride divorce humor wasp aisle",
-  "https://rinkeby.infura.io/v3/1d01e94d5f5447f0953b2d88afc9d9d7"
+  process.env.NMEMONIC,
+  process.env.INFURA
 );
 
 const web3 = new Web3(provider);
