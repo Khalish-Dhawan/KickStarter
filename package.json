@@ -7,7 +7,7 @@
     "test": "mocha",
     "dev": "next dev",
     "build": "next build",
-    "start": "next startnpmru"
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
