@@ -1,1 +1,2 @@
+Deployed Link (https://kick-starter-r2pj8eth5-khalish-dhawan.vercel.app/). You need to have metamask installed and goreli test network selected with some test ether to perform actions on ethereum blockchain.
 It is a clone of Kickstarter (website that allows people across the world to contribute money in initiative ideas). It addresses the problem of accountability and involvement of contributors in spending the money by the manager 
