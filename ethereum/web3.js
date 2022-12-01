@@ -1,4 +1,5 @@
 const Web3 = require("web3");
+require("dotenv").config();
 
 let web3;
 
