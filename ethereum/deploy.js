@@ -4,8 +4,8 @@ const Web3 = require("web3");
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-  "bike rabbit shadow battle suit float rather ride divorce humor wasp aisle",
-  "https://goerli.infura.io/v3/010e283b478143a79ba5a931b878fda0"
+  "12 word mneumonic",
+  "Infura link"
 );
 
 const web3 = new Web3(provider);
